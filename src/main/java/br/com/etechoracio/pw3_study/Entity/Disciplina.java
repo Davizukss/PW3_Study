@@ -16,6 +16,6 @@ public class Disciplina {
     private long id;
 
     @Column(name = "TX_NOME")
-    private String tx_nome;
+    private String nome;
 
 }
